@@ -1,3 +1,3 @@
 # intro-node-js
-Getting into Nodejs: 
+Getting familiar with Nodejs: 
 Simple e-commerce site, built with Nodejs, Html, Express.
